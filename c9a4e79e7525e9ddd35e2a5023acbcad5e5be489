@@ -1,0 +1,1 @@
+{"jobID":"607fd5d9-ce5f-ce81-ee7e-1fa173b8b61c","spec":{"type":"policy","cause":{"Message":"","User":"Long Vu \u003clvu@intelerad.com\u003e"},"spec":{"default:deployment/helloworld":{"add":{"automated":"true"},"remove":{}}}},"result":null}
