@@ -1,0 +1,1 @@
+{"jobID":"5675659c-3d06-e1fa-f3cf-adfc19ad0002","spec":{"type":"policy","cause":{"Message":"","User":"Long Vu \u003clvu@intelerad.com\u003e"},"spec":{"default:deployment/helloworld":{"add":{},"remove":{"locked":"true","locked_msg":"true","locked_user":"true"}}}},"result":null}
